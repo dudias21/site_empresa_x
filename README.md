@@ -49,3 +49,9 @@ __Melhoria 1__, _melhoria 2_
    } 
 ```
 
+## Lista de tarefas a fazer:
+
+-[x] Area de membros
+-[] Integração de pagamentos
+-[] Sistema de bônus
+-[x] CSS do rodapé
