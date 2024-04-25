@@ -37,3 +37,7 @@ __Melhoria 1__, _melhoria 2_
 
 ![Logodophp](https://www.google.com/search?q=logo+do+php&oq=logo+do+php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMgoICRAAGAoYFhge0gEIOTkyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=U4WZsmAu1K5_tM&vssid=l)
 
+## Links interessantes:
+
+[Google](https://www.google.com)
+
