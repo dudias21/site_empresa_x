@@ -32,3 +32,8 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![LogodoPython](img/python.png)
+
+#### Imagem externa
+
+![Logodophp](https://www.google.com/search?q=logo+do+php&oq=logo+do+php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMgoICRAAGAoYFhge0gEIOTkyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=U4WZsmAu1K5_tM&vssid=l)
+
